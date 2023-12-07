@@ -22,3 +22,7 @@ input{
     border: 3px solid #ccc;
     outline: none !important;
 }
+p{
+    text-align: center;
+    display: none;
+}
